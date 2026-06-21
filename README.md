@@ -1,5 +1,6 @@
 # Pandapower 入门指南
 Pandapower 是一个基于 Python 的电力系统分析工具，它提供了简单易用的 API 来进行电力系统建模、潮流计算、优化等。
+from:https://github.com/e2nIEE/pandapower
 
 ## 项目结构概览
 
